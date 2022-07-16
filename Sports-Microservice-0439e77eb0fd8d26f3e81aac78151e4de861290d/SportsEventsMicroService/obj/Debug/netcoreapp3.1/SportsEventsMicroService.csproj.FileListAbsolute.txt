@@ -1,0 +1,563 @@
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.exe
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.deps.json
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.runtimeconfig.json
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.runtimeconfig.dev.json
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.pdb
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.AssemblyReference.cache
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.GeneratedMSBuildEditorConfig.editorconfig
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.AssemblyInfoInputs.cache
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.AssemblyInfo.cs
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.CoreCompileInputs.cache
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.MvcApplicationPartsAssemblyInfo.cache
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\staticwebassets\SportsEventsMicroService.StaticWebAssets.Manifest.cache
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.RazorTargetAssemblyInfo.cache
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.pdb
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.genruntimeconfig.cache
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.CopyComplete
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.exe
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.deps.json
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.runtimeconfig.json
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.runtimeconfig.dev.json
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.pdb
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.AssemblyReference.cache
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.GeneratedMSBuildEditorConfig.editorconfig
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.AssemblyInfoInputs.cache
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.AssemblyInfo.cs
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.CoreCompileInputs.cache
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.MvcApplicationPartsAssemblyInfo.cache
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\staticwebassets\SportsEventsMicroService.StaticWebAssets.Manifest.cache
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.RazorTargetAssemblyInfo.cache
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.CopyComplete
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.pdb
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.genruntimeconfig.cache
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.MvcApplicationPartsAssemblyInfo.cs
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.exe
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.deps.json
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.runtimeconfig.json
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.runtimeconfig.dev.json
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.pdb
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.AssemblyReference.cache
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.GeneratedMSBuildEditorConfig.editorconfig
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.AssemblyInfoInputs.cache
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.AssemblyInfo.cs
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.CoreCompileInputs.cache
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.MvcApplicationPartsAssemblyInfo.cs
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.MvcApplicationPartsAssemblyInfo.cache
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\staticwebassets\SportsEventsMicroService.StaticWebAssets.Manifest.cache
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\staticwebassets\SportsEventsMicroService.StaticWebAssets.xml
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsEventsMicroService.styles.css
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.RazorTargetAssemblyInfo.cache
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.CopyComplete
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.pdb
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.genruntimeconfig.cache
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\MFPE\Sports-Microservice\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.StaticWebAssets.xml
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Castle.Core.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\log4net.config
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+X:\SportsEventsManagement\Sports Events Services\SportsEventManagementSystem\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\log4net.config
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.exe
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.deps.json
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.runtimeconfig.json
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.runtimeconfig.dev.json
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\SportsEventsMicroService.pdb
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.AssemblyInfoInputs.cache
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.AssemblyInfo.cs
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.CoreCompileInputs.cache
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.MvcApplicationPartsAssemblyInfo.cs
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.MvcApplicationPartsAssemblyInfo.cache
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\staticwebassets\SportsEventsMicroService.StaticWebAssets.Manifest.cache
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\staticwebassets\SportsEventsMicroService.StaticWebAssets.xml
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsEventsMicroService.styles.css
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.RazorTargetAssemblyInfo.cache
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.CopyComplete
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.dll
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.pdb
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.genruntimeconfig.cache
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\obj\Debug\netcoreapp3.1\SportsEventsMicroService.csproj.AssemblyReference.cache
+D:\Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

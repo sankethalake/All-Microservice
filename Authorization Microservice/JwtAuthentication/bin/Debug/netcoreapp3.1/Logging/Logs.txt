@@ -1,0 +1,2 @@
+2022-07-11 20:42:03,801 [14] WARN JwtAuthentication.Controllers.LoginController - Log4Net:Invalid User Login
+2022-07-11 20:42:03,807 [14] ERROR JwtAuthentication.Controllers.LoginController - Log4Net:401 Unauthorized User

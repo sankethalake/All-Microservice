@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParticipationMicroservice", "ParticipationMicroservice\ParticipationMicroservice.csproj", "{D317A43E-5018-45B6-B652-095B0A4D49F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParticipationTest", "ParticipationTest\ParticipationTest.csproj", "{216801FD-58ED-42BE-862E-0EADC8D28EC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsTesting", "Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\EventsTesting\EventsTesting.csproj", "{4009FDF6-8632-44B7-B29F-28A063180B4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsEventsMicroService", "Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsEventsMicroService\SportsEventsMicroService.csproj", "{8BB08D9E-63E0-4CF6-9045-0EF5AAEDE84B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsTesting", "Sports-Microservice-0439e77eb0fd8d26f3e81aac78151e4de861290d\SportsTesting\SportsTesting.csproj", "{950FA31C-92EE-4778-80D5-EACBB178E99E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtAuthentication", "Authorization Microservice\JwtAuthentication\JwtAuthentication.csproj", "{D01DB41F-73C2-4F4E-8059-5FF2BD102506}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtTokenGeneration-Test", "Authorization Microservice\JwtTokenGeneration-Test\JwtTokenGeneration-Test.csproj", "{E2616A75-FCB7-4F3D-B5AB-FCED8423E6C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginControllerTest", "Authorization Microservice\LoginControllerTest\LoginControllerTest.csproj", "{4DCE0AD0-6654-4E26-BDE1-C7E30A3A56D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerTest", "PlayerTest\PlayerTest.csproj", "{650B7DFE-FD9A-4412-8A9D-8E4571D126F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerMicroService", "PlayerMicroService\PlayerMicroService.csproj", "{9CAC52C7-B030-488C-8889-2E6A27AAE4B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D317A43E-5018-45B6-B652-095B0A4D49F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D317A43E-5018-45B6-B652-095B0A4D49F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D317A43E-5018-45B6-B652-095B0A4D49F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D317A43E-5018-45B6-B652-095B0A4D49F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216801FD-58ED-42BE-862E-0EADC8D28EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216801FD-58ED-42BE-862E-0EADC8D28EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216801FD-58ED-42BE-862E-0EADC8D28EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216801FD-58ED-42BE-862E-0EADC8D28EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4009FDF6-8632-44B7-B29F-28A063180B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4009FDF6-8632-44B7-B29F-28A063180B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4009FDF6-8632-44B7-B29F-28A063180B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4009FDF6-8632-44B7-B29F-28A063180B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB08D9E-63E0-4CF6-9045-0EF5AAEDE84B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB08D9E-63E0-4CF6-9045-0EF5AAEDE84B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB08D9E-63E0-4CF6-9045-0EF5AAEDE84B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB08D9E-63E0-4CF6-9045-0EF5AAEDE84B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950FA31C-92EE-4778-80D5-EACBB178E99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950FA31C-92EE-4778-80D5-EACBB178E99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950FA31C-92EE-4778-80D5-EACBB178E99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950FA31C-92EE-4778-80D5-EACBB178E99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01DB41F-73C2-4F4E-8059-5FF2BD102506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01DB41F-73C2-4F4E-8059-5FF2BD102506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01DB41F-73C2-4F4E-8059-5FF2BD102506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01DB41F-73C2-4F4E-8059-5FF2BD102506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2616A75-FCB7-4F3D-B5AB-FCED8423E6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2616A75-FCB7-4F3D-B5AB-FCED8423E6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2616A75-FCB7-4F3D-B5AB-FCED8423E6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2616A75-FCB7-4F3D-B5AB-FCED8423E6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCE0AD0-6654-4E26-BDE1-C7E30A3A56D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCE0AD0-6654-4E26-BDE1-C7E30A3A56D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCE0AD0-6654-4E26-BDE1-C7E30A3A56D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCE0AD0-6654-4E26-BDE1-C7E30A3A56D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650B7DFE-FD9A-4412-8A9D-8E4571D126F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650B7DFE-FD9A-4412-8A9D-8E4571D126F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650B7DFE-FD9A-4412-8A9D-8E4571D126F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650B7DFE-FD9A-4412-8A9D-8E4571D126F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CAC52C7-B030-488C-8889-2E6A27AAE4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAC52C7-B030-488C-8889-2E6A27AAE4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAC52C7-B030-488C-8889-2E6A27AAE4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAC52C7-B030-488C-8889-2E6A27AAE4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815474A7-5B97-4D35-8F6B-FF7E73AA2A34}
+	EndGlobalSection
+EndGlobal
